@@ -1,0 +1,4 @@
+Angel Laxamana (2022-13386)
+Expectations for CMSC 100
+
+Web Development is one of the career choices I had when I chose this degree. As a student who aspires to work in this field, I expect this course to help me build a solid foundation for web programming, help me understand how the web works, and guide me in creating user-friendly web applications. With this course, I anticipate gaining a broader knowledge of JavaScript concepts and additional libraries necessary for building and maintaining web applications. I also hope that this course will be able to mend my relationship with CSS.
